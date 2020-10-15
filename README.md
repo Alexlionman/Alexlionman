@@ -24,3 +24,5 @@ Geração de relatórios com JSP 📈<br>
 HTML e CSS (esse é de lei) 🔠<br><br>
 
  🧐🧐Você pode verificar os repositórios de alguns projetos que eu desenvolvi, é pouca coisa, mas por enquanto.🧐🧐
+ ![Alexlionman Status](https://github-readme-stats.vercel.app/api?username=Alexlionman&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexlionman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
