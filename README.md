@@ -1,7 +1,7 @@
 ### Alex Sander Cruz
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/alex-sander-cruz-pereira/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:karanalpe@gmail.com)](pereirasander33@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pereirasander33@gmail.com)](mailto:pereirasander33@gmail.com)
 
 Bem vindo ao meu GitHub.🤗<br>
 
