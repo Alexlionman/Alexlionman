@@ -9,7 +9,7 @@ Back-end na veia😎⌨📈<br>
 
 Atualmente sou estágiario em desenvolvimento Java☕️ no <a target="_blank" href="http://www.itinovacao.org.br/">🌍Instituto Tecnológico Inovação🌍</a> <br>
 Me formando em Análise e desenvolvimento de sistemas na <a target="_blank" href="https://www.cruzeirodosul.edu.br/">⭐Universidade Cruzeiro do Sul ⭐</a><br> 
-             Estou sempre aprendendo e procurando evoluir meus conhecimentos
+             Estou sempre aprendendo e procurando evoluir meus conhecimentos, um dia quero me tornar Analista de sistemas🕵
                       
 Conhecimentos em 👇
 
