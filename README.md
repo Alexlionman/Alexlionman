@@ -15,6 +15,7 @@ Conhecimentos em 👇
 
 JAVA SWING 🔱<br>
 SPRING/ SPRING BOOT ⏯<br>
+JSP 📡 <br>
 Databases Oracle 🅾 e MYSQL 🐬<br>
 HIBERNATE 📁<br>
 SVN Tortoise 🐢<br>
