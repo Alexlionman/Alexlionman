@@ -5,7 +5,7 @@
 
 Bem vindo ao meu GitHub.🤗<br>
 
-Back-end na veia😎⌨📈<br>
+Back-end ⌨📈<br>
 
 Atualmente sou estágiario em desenvolvimento Java☕️ no <a target="_blank" href="http://www.itinovacao.org.br/">🌍Instituto Tecnológico Inovação🌍</a> <br>
 Me formando em Análise e desenvolvimento de sistemas na <a target="_blank" href="https://www.cruzeirodosul.edu.br/">⭐Universidade Cruzeiro do Sul ⭐</a><br> 
@@ -15,17 +15,17 @@ Conhecimentos em 👇
 
 JAVA🔱<br>
 SPRING/ SPRING BOOT ⏯<br>
-JPA 💾<br>
-JSP 📡 <br>
+Java Persistence API - JPA 💾<br>
+Java Server Pages - JSP 📡 <br>
 Databases SQL Server 🅾 e MYSQL 🐬<br>
 Arquitetura MVC ⏪⏫⏩ <br>
 HIBERNATE 📁<br>
 Google Web Toolkit - GWT ⚙️<br>
-SVN Tortoise 🐢<br>
+Versionamento com Tortoise SVN 🐢<br>
 Versionamento com GIT 🐱<br>
 API´s REST🔩<br>
 Metodologia SCRUM 🚀<br>
-Geração de relatórios com JSP 📈<br>
+Geração de relatórios com Jasper Reports 📈<br>
 Python 🐍<br>
 HTML e CSS (esse é de lei) 🔠<br>
 <br> As vezes fico um pouco inativo no GitHub (Quando as coisas apertam no trabalho), mas sempre estou desenvolvendo algo em paralelo.<br>
