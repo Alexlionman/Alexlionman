@@ -9,7 +9,7 @@ Back-end na veia😎⌨📈<br>
 
 Atualmente sou estágiario em desenvolvimento Java☕️ no <a target="_blank" href="http://www.itinovacao.org.br/">🌍Instituto Tecnológico Inovação🌍</a> <br>
 Me formando em Análise e desenvolvimento de sistemas na <a target="_blank" href="https://www.cruzeirodosul.edu.br/">⭐Universidade Cruzeiro do Sul ⭐</a><br> 
-             Estou sempre aprendendo e procurando evoluir meus conhecimentos, um dia quero me tornar Analista de sistemas🕵
+             Procuro sempre aprender novas tecnologias, mas principalmente me aprofundar nas que já tenho conhecimento.
                       
 Conhecimentos em 👇
 
@@ -20,8 +20,10 @@ JSP 📡 <br>
 Databases SQL Server 🅾 e MYSQL 🐬<br>
 Arquitetura MVC ⏪⏫⏩ <br>
 HIBERNATE 📁<br>
+Google Web Toolkit - GWT ⚙️<br>
 SVN Tortoise 🐢<br>
 Versionamento com GIT 🐱<br>
+API´s REST🔩<br>
 Metodologia SCRUM 🚀<br>
 Geração de relatórios com JSP 📈<br>
 Python 🐍<br>
