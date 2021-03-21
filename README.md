@@ -29,6 +29,6 @@ Geração de relatórios com Jasper Reports 📈<br>
 Python 🐍<br>
 HTML e CSS (esse é de lei) 🔠<br>
 <br> As vezes fico um pouco inativo no GitHub (Quando as coisas apertam no trabalho), mas sempre estou desenvolvendo algo em paralelo.<br>
- 🧐🧐Você pode verificar os repositórios de alguns projetos que eu desenvolvi, é pouca coisa, mas por enquanto.🧐🧐<br><br>
+ --Você pode verificar os repositórios de alguns projetos que eu desenvolvi, é pouca coisa, mas por enquanto.--<br><br>
  ![Alexlionman Status](https://github-readme-stats.vercel.app/api?username=Alexlionman&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexlionman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
