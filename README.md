@@ -13,15 +13,18 @@ Me formando em Análise e desenvolvimento de sistemas na <a target="_blank" href
                       
 Conhecimentos em 👇
 
-JAVA SWING 🔱<br>
+JAVA🔱<br>
 SPRING/ SPRING BOOT ⏯<br>
+JPA 💾<br>
 JSP 📡 <br>
-Databases Oracle 🅾 e MYSQL 🐬<br>
+Databases SQL Server 🅾 e MYSQL 🐬<br>
+Arquitetura MVC ⏪⏫⏩ <br>
 HIBERNATE 📁<br>
 SVN Tortoise 🐢<br>
 Versionamento com GIT 🐱<br>
 Metodologia SCRUM 🚀<br>
 Geração de relatórios com JSP 📈<br>
+Python 🐍<br>
 HTML e CSS (esse é de lei) 🔠<br>
 <br> As vezes fico um pouco inativo no GitHub (Quando as coisas apertam no trabalho), mas sempre estou desenvolvendo algo em paralelo.<br>
  🧐🧐Você pode verificar os repositórios de alguns projetos que eu desenvolvi, é pouca coisa, mas por enquanto.🧐🧐<br><br>
