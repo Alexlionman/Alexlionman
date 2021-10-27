@@ -8,7 +8,7 @@ Bem vindo ao meu GitHub.🤗<br>
 Back-end ⌨📈<br>
 
 Atualmente sou Analista Desenvolvedor Java☕️ na <a target="_blank" href="https://www.gtisolution.com.br/">🌍GTI Solution🌍</a> <br>
-Me formando em Análise e desenvolvimento de sistemas na <a target="_blank" href="https://www.cruzeirodosul.edu.br/">⭐Universidade Cruzeiro do Sul ⭐</a><br> 
+Formado em Análise e desenvolvimento de sistemas na <a target="_blank" href="https://www.cruzeirodosul.edu.br/">⭐Universidade Cruzeiro do Sul ⭐</a><br> 
              Procuro sempre aprender novas tecnologias, mas principalmente me aprofundar nas que já tenho conhecimento.
                       
 Conhecimentos em 👇
